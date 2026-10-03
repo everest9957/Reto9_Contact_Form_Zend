@@ -6,26 +6,25 @@
 **Fecha:** Octubre 2026
 
 ---
+## 🧩 Tecnologías del proyecto
 
+![PHP](https://img.shields.io/badge/PHP-7.4.33-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Laminas](https://img.shields.io/badge/Laminas-3.x-00A0DF?style=for-the-badge&logo=laminas&logoColor=white)
+![Zend](https://img.shields.io/badge/Zend_Framework-3.x-68B604?style=for-the-badge&logo=zend&logoColor=white)
+![Composer](https://img.shields.io/badge/Composer-2.10.3-885630?style=for-the-badge&logo=composer&logoColor=white)
+![MariaDB](https://img.shields.io/badge/MariaDB-10.4.32-003545?style=for-the-badge&logo=mariadb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-Compatible-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-## 🖼️ Logotipos y herramientas utilizadas
+![XAMPP](https://img.shields.io/badge/XAMPP-8.x-FB7A24?style=for-the-badge&logo=xampp&logoColor=white)
+![phpMyAdmin](https://img.shields.io/badge/phpMyAdmin-5.x-6C78AF?style=for-the-badge&logo=phpmyadmin&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-5.3-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-7.6-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
+![Git](https://img.shields.io/badge/Git-2.50-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-everest9957-181717?style=for-the-badge&logo=github&logoColor=white)
 
-| Herramienta | Logo | Rol en el proyecto |
-|---|---|---|
-| **PHP** | ![PHP](https://www.php.net/images/logos/php-logo.svg) | Lenguaje base del backend (versión 7.4.33) |
-| **Laminas** | ![Laminas](https://raw.githubusercontent.com/laminas/laminas.github.io/master/static/images/logo-laminas.svg) | Framework MVC (sucesor oficial de Zend Framework) |
-| **Zend Framework** | ![Zend](https://raw.githubusercontent.com/zendframework/zf-web/master/public/img/zf-logo.svg) | Framework original pedido por el reto (migrado) |
-| **Composer** | ![Composer](https://getcomposer.org/img/logo-composer-transparent.png) | Gestor de dependencias de PHP |
-| **MariaDB** | ![MariaDB](https://mariadb.com/wp-content/uploads/2019/03/mariadb-logo-vertical_blue.svg) | Motor de base de datos MySQL-compatible |
-| **MySQL** | ![MySQL](https://www.mysql.com/common/logos/logo-mysql-170x115.png) | Compatibilidad de sintaxis SQL |
-| **XAMPP** | ![XAMPP](https://www.apachefriends.org/images/xampp-logo-ac950edf.svg) | Stack local (Apache + MariaDB + PHP) |
-| **phpMyAdmin** | ![phpMyAdmin](https://www.phpmyadmin.net/static/images/logo.png) | Cliente web para inspeccionar la BD |
-| **Bootstrap** | ![Bootstrap](https://getbootstrap.com/docs/5.3/assets/brand/bootstrap-logo.svg) | Estilos del formulario |
-| **PowerShell** | ![PowerShell](https://raw.githubusercontent.com/PowerShell/PowerShell/master/assets/ps_black_64.svg) | Terminal para comandos de instalación y pruebas |
-| **Git** | ![Git](https://git-scm.com/images/logos/downloads/Git-Logo-2Color.svg) | Control de versiones |
-| **GitHub** | ![GitHub](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png) | Repositorio remoto y entrega |
-| **Visual Studio Code** | ![VS Code](https://code.visualstudio.com/assets/images/code-stable.png) | Editor de código (opcional) |
-| **Windows** | ![Windows](https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Windows_logo_-_2021.svg/512px-Windows_logo_-_2021.svg.png) | Sistema operativo base del entorno |
+![Windows](https://img.shields.io/badge/Windows-11-0078D4?style=for-the-badge&logo=windows11&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-Editor-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![License](https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge)
 
 ## 📋 Índice
 
