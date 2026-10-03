@@ -1,0 +1,13 @@
+php
+<?php
+
+return [
+    'db' => [
+        'driver'   => 'Pdo_Mysql',
+        'database' => 'reto9_contact',
+        'username' => 'root',
+        'password' => '',
+        'hostname' => 'localhost',
+        'charset'  => 'utf8mb4',
+    ],
+];
